@@ -1,7 +1,7 @@
 # Rifampicin-PopPK-Repository
 ## A repository of Rifampicin PopPK models based on MrgSolve by R.
 ### Overview
-This repository contains a collection of Population Pharmacokinetic (PopPK) models for Rifampin, implemented in R. The models are based on various published studies and are designed to simulate pharmacokinetic profiles for both adults and children. The repository includes scripts for model simulation, parameter estimation, and visualization of results.
+This repository contains a collection of Population Pharmacokinetic (PopPK) models for Rifampin, implemented in R. The models are based on various published studies and are designed to simulate pharmacokinetic profiles for both adults and children. The repository includes scripts for model simulation, parameter estimation, and visualization of results. We also offer a easy use of shiny app for our repository, and welcome to download and give us more suggestions.
 
 ### Model List
 The repository includes 30 different PopPK models for Rifampin, each based on a specific study. Each model is implemented using the mrgsolve and rxode2 packages in R, and the simulations are performed using the PopED package for population pharmacokinetic modeling.
